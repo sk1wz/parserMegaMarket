@@ -14,8 +14,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 from openpyxl.styles import Alignment
 
 print('===================================')
-print('Программа парсинга SberMegaMarket!')
-print('Create By - sk1wz')
+print('Программа парсинга MegaMarket!')
 print('Не закрывайте программу до окончания её работы!')
 print('===================================')
 
